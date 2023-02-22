@@ -530,6 +530,24 @@ h6 {
   border: 2px solid #5c9f24;
   background: #5c9f24;
 }
+#hero .telegram {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+  letter-spacing: 1px;
+  display: inline-block;
+  padding: 10px 32px 12px 32px;
+  border-radius: 4px;
+  transition: 0.5s;
+  line-height: 1;
+  margin: 10px;
+  color: #fff;
+  -webkit-animation-delay: 0.8s;
+  animation-delay: 0.8s;
+  text-transform: uppercase;
+  border: 2px solid #004ae9;
+  background: #004ae9;
+}
 
 #hero .btn-get-started:hover {
   background: #6ab82a;
