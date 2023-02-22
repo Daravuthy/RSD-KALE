@@ -11,6 +11,7 @@
 body {
   font-family: "Open Sans", sans-serif;
   color: #444444;
+  
 }
 
 a {
@@ -580,7 +581,7 @@ section {
 }
 
 .section-bg {
-  background-color: #f1f1f1;
+  background-color: #000000;
 }
 
 .section-title {
@@ -746,6 +747,10 @@ section {
   margin-bottom: 20px;
   text-align: center;
 }
+.services{
+  color: white;
+  background: #000000;
+}
 
 .services .icon {
   display: inline-flex;
@@ -780,7 +785,7 @@ section {
 }
 
 .services .title a {
-  color: #444444;
+  color: #da1919;
   transition: 0.3s;
 }
 
@@ -1039,9 +1044,11 @@ section {
 # Team
 --------------------------------------------------------------*/
 .team {
-  background: #fff;
+  color: white;
+  background: #000000;
   padding: 60px 0;
 }
+
 
 .team .member {
   text-align: center;
@@ -1308,6 +1315,10 @@ section {
 /*--------------------------------------------------------------
 # Contact
 --------------------------------------------------------------*/
+.contact{
+  color: white;
+  background: #000000;
+}
 .contact .contact-info {
   margin-bottom: 20px;
   text-align: center;
@@ -1648,7 +1659,7 @@ section {
 }
 
 section {
-  background: #f4f4f4;
+  background: #f80000;
   padding: 10px 0;
 }
 
