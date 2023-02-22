@@ -1686,10 +1686,10 @@ section {
   position: absolute;
 }
 .carousel > input:nth-of-type(11):checked ~ .carousel__slides .carousel__slide:first-of-type {
-  margin-left: -600%;
+  margin-left: -1000%;
 }
 .carousel > input:nth-of-type(10):checked ~ .carousel__slides .carousel__slide:first-of-type {
-  margin-left: -1000%;
+  margin-left: -900%;
 }
 .carousel > input:nth-of-type(9):checked ~ .carousel__slides .carousel__slide:first-of-type {
   margin-left: -800%;
