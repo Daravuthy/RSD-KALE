@@ -1660,7 +1660,7 @@ section {
 
 section {
   background: #f80000;
-  padding: 10px 0;
+  padding: 1px 0;
 }
 
 .container {
@@ -1827,7 +1827,8 @@ section {
   margin: 0 -10px;
 }
 .carousel__slides + .carousel__thumbnails {
-  margin-top: 20px;
+  margin-top: 5px;
+  margin-bottom: -17px;
 }
 .carousel__thumbnails li {
   flex: 1 1 auto;
