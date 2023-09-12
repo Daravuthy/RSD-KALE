@@ -1662,7 +1662,9 @@ section {
   background: #f80000;
   padding: 1px 0;
 }
-
+.heightImg{
+  height: 390px;
+}
 .container {
   max-width: 1044px;
   margin: 0 auto;
